@@ -1,0 +1,105 @@
+region_id,region_name,flower_pdf
+0,OHI+ Chile,C:/github/chl2/comunas/reports/figures/flower_OHI+Chile.pdf
+1,Algarrobo,C:/github/chl2/comunas/reports/figures/flower_Algarrobo.pdf
+2,Ancud,C:/github/chl2/comunas/reports/figures/flower_Ancud.pdf
+3,Antofagasta,C:/github/chl2/comunas/reports/figures/flower_Antofagasta.pdf
+4,Arauco,C:/github/chl2/comunas/reports/figures/flower_Arauco.pdf
+5,Arica,C:/github/chl2/comunas/reports/figures/flower_Arica.pdf
+6,Aysen,C:/github/chl2/comunas/reports/figures/flower_Aysen.pdf
+7,Cabo de Hornos,C:/github/chl2/comunas/reports/figures/flower_CabodeHornos.pdf
+8,Calbuco,C:/github/chl2/comunas/reports/figures/flower_Calbuco.pdf
+9,Caldera,C:/github/chl2/comunas/reports/figures/flower_Caldera.pdf
+10,Camarones,C:/github/chl2/comunas/reports/figures/flower_Camarones.pdf
+11,Canela,C:/github/chl2/comunas/reports/figures/flower_Canela.pdf
+12,Canete,C:/github/chl2/comunas/reports/figures/flower_Canete.pdf
+13,Carahue,C:/github/chl2/comunas/reports/figures/flower_Carahue.pdf
+14,Cartagena,C:/github/chl2/comunas/reports/figures/flower_Cartagena.pdf
+15,Casablanca,C:/github/chl2/comunas/reports/figures/flower_Casablanca.pdf
+16,Castro,C:/github/chl2/comunas/reports/figures/flower_Castro.pdf
+17,Chaiten,C:/github/chl2/comunas/reports/figures/flower_Chaiten.pdf
+18,Chanaral,C:/github/chl2/comunas/reports/figures/flower_Chanaral.pdf
+19,Chanco,C:/github/chl2/comunas/reports/figures/flower_Chanco.pdf
+20,Chonchi,C:/github/chl2/comunas/reports/figures/flower_Chonchi.pdf
+21,Cisnes,C:/github/chl2/comunas/reports/figures/flower_Cisnes.pdf
+22,Cobquecura,C:/github/chl2/comunas/reports/figures/flower_Cobquecura.pdf
+23,Cochamo,C:/github/chl2/comunas/reports/figures/flower_Cochamo.pdf
+24,Coelemu,C:/github/chl2/comunas/reports/figures/flower_Coelemu.pdf
+25,Concon,C:/github/chl2/comunas/reports/figures/flower_Concon.pdf
+26,Constitucion,C:/github/chl2/comunas/reports/figures/flower_Constitucion.pdf
+27,Copiapo,C:/github/chl2/comunas/reports/figures/flower_Copiapo.pdf
+28,Coquimbo,C:/github/chl2/comunas/reports/figures/flower_Coquimbo.pdf
+29,Coronel,C:/github/chl2/comunas/reports/figures/flower_Coronel.pdf
+30,Corral,C:/github/chl2/comunas/reports/figures/flower_Corral.pdf
+31,Curaco de Velez,C:/github/chl2/comunas/reports/figures/flower_CuracodeVelez.pdf
+32,Curepto,C:/github/chl2/comunas/reports/figures/flower_Curepto.pdf
+33,Dalcahue,C:/github/chl2/comunas/reports/figures/flower_Dalcahue.pdf
+34,El quisco,C:/github/chl2/comunas/reports/figures/flower_Elquisco.pdf
+35,El tabo,C:/github/chl2/comunas/reports/figures/flower_Eltabo.pdf
+36,Freirina,C:/github/chl2/comunas/reports/figures/flower_Freirina.pdf
+37,Fresia,C:/github/chl2/comunas/reports/figures/flower_Fresia.pdf
+38,Guaitecas,C:/github/chl2/comunas/reports/figures/flower_Guaitecas.pdf
+39,Hualaihue,C:/github/chl2/comunas/reports/figures/flower_Hualaihue.pdf
+40,Hualpen,C:/github/chl2/comunas/reports/figures/flower_Hualpen.pdf
+41,Huara,C:/github/chl2/comunas/reports/figures/flower_Huara.pdf
+42,Huasco,C:/github/chl2/comunas/reports/figures/flower_Huasco.pdf
+43,Iquique,C:/github/chl2/comunas/reports/figures/flower_Iquique.pdf
+44,La higuera,C:/github/chl2/comunas/reports/figures/flower_Lahiguera.pdf
+45,La ligua,C:/github/chl2/comunas/reports/figures/flower_Laligua.pdf
+46,La serena,C:/github/chl2/comunas/reports/figures/flower_Laserena.pdf
+47,La union,C:/github/chl2/comunas/reports/figures/flower_Launion.pdf
+48,Laguna Blanca,C:/github/chl2/comunas/reports/figures/flower_LagunaBlanca.pdf
+49,Lebu,C:/github/chl2/comunas/reports/figures/flower_Lebu.pdf
+50,Licanten,C:/github/chl2/comunas/reports/figures/flower_Licanten.pdf
+51,Litueche,C:/github/chl2/comunas/reports/figures/flower_Litueche.pdf
+52,Los alamos,C:/github/chl2/comunas/reports/figures/flower_Losalamos.pdf
+53,Los Muermos,C:/github/chl2/comunas/reports/figures/flower_LosMuermos.pdf
+54,Los vilos,C:/github/chl2/comunas/reports/figures/flower_Losvilos.pdf
+55,Lota,C:/github/chl2/comunas/reports/figures/flower_Lota.pdf
+56,Mariquina,C:/github/chl2/comunas/reports/figures/flower_Mariquina.pdf
+57,Maullin,C:/github/chl2/comunas/reports/figures/flower_Maullin.pdf
+58,Mejillones,C:/github/chl2/comunas/reports/figures/flower_Mejillones.pdf
+59,Natales,C:/github/chl2/comunas/reports/figures/flower_Natales.pdf
+60,Navidad,C:/github/chl2/comunas/reports/figures/flower_Navidad.pdf
+61,Ovalle,C:/github/chl2/comunas/reports/figures/flower_Ovalle.pdf
+62,Papudo,C:/github/chl2/comunas/reports/figures/flower_Papudo.pdf
+63,Paredones,C:/github/chl2/comunas/reports/figures/flower_Paredones.pdf
+64,Pelluhue,C:/github/chl2/comunas/reports/figures/flower_Pelluhue.pdf
+65,Penco,C:/github/chl2/comunas/reports/figures/flower_Penco.pdf
+66,Pichilemu,C:/github/chl2/comunas/reports/figures/flower_Pichilemu.pdf
+67,Porvenir,C:/github/chl2/comunas/reports/figures/flower_Porvenir.pdf
+68,Primavera,C:/github/chl2/comunas/reports/figures/flower_Primavera.pdf
+69,Puchuncavi,C:/github/chl2/comunas/reports/figures/flower_Puchuncavi.pdf
+70,Puerto Montt,C:/github/chl2/comunas/reports/figures/flower_PuertoMontt.pdf
+71,Puerto Varas,C:/github/chl2/comunas/reports/figures/flower_PuertoVaras.pdf
+72,Punta Arenas,C:/github/chl2/comunas/reports/figures/flower_PuntaArenas.pdf
+73,Puqueldon,C:/github/chl2/comunas/reports/figures/flower_Puqueldon.pdf
+74,Purranque,C:/github/chl2/comunas/reports/figures/flower_Purranque.pdf
+75,Queilen,C:/github/chl2/comunas/reports/figures/flower_Queilen.pdf
+76,Quellon,C:/github/chl2/comunas/reports/figures/flower_Quellon.pdf
+77,Quemchi,C:/github/chl2/comunas/reports/figures/flower_Quemchi.pdf
+78,Quinchao,C:/github/chl2/comunas/reports/figures/flower_Quinchao.pdf
+79,Quintero,C:/github/chl2/comunas/reports/figures/flower_Quintero.pdf
+80,Rio Negro,C:/github/chl2/comunas/reports/figures/flower_RioNegro.pdf
+81,Rio Verde,C:/github/chl2/comunas/reports/figures/flower_RioVerde.pdf
+82,Saavedra,C:/github/chl2/comunas/reports/figures/flower_Saavedra.pdf
+83,San antonio,C:/github/chl2/comunas/reports/figures/flower_Sanantonio.pdf
+84,San Gregorio,C:/github/chl2/comunas/reports/figures/flower_SanGregorio.pdf
+85,San Juan de la Costa,C:/github/chl2/comunas/reports/figures/flower_SanJuandelaCosta.pdf
+86,San pedro de la paz,C:/github/chl2/comunas/reports/figures/flower_Sanpedrodelapaz.pdf
+87,Santo domingo,C:/github/chl2/comunas/reports/figures/flower_Santodomingo.pdf
+88,Talcahuano,C:/github/chl2/comunas/reports/figures/flower_Talcahuano.pdf
+89,Taltal,C:/github/chl2/comunas/reports/figures/flower_Taltal.pdf
+90,Teodoro schmidt,C:/github/chl2/comunas/reports/figures/flower_Teodoroschmidt.pdf
+91,Timaukel,C:/github/chl2/comunas/reports/figures/flower_Timaukel.pdf
+92,Tirua,C:/github/chl2/comunas/reports/figures/flower_Tirua.pdf
+93,Tocopilla,C:/github/chl2/comunas/reports/figures/flower_Tocopilla.pdf
+94,Tolten,C:/github/chl2/comunas/reports/figures/flower_Tolten.pdf
+95,Tome,C:/github/chl2/comunas/reports/figures/flower_Tome.pdf
+96,Torres del Paine,C:/github/chl2/comunas/reports/figures/flower_TorresdelPaine.pdf
+97,Tortel,C:/github/chl2/comunas/reports/figures/flower_Tortel.pdf
+98,Treguaco,C:/github/chl2/comunas/reports/figures/flower_Treguaco.pdf
+99,Valdivia,C:/github/chl2/comunas/reports/figures/flower_Valdivia.pdf
+100,Valparaiso,C:/github/chl2/comunas/reports/figures/flower_Valparaiso.pdf
+101,Vichuquen,C:/github/chl2/comunas/reports/figures/flower_Vichuquen.pdf
+102,Vina del mar,C:/github/chl2/comunas/reports/figures/flower_Vinadelmar.pdf
+103,Zapallar,C:/github/chl2/comunas/reports/figures/flower_Zapallar.pdf
