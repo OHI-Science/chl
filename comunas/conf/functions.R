@@ -295,7 +295,7 @@ AO <- function(layers) {
     SelectLayersData(layers, layers =  "ao_scores") %>%
     dplyr::select(year, region_id = id_num, status = val_num)
 
-  ao_scores$status<- ao_scores$status*100
+  #ao_scores$status<- ao_scores$status*100
 
   r.status<- ao_scores %>%
     filter(year == 2021) %>%
@@ -556,7 +556,7 @@ CP <- function(layers) {
     dplyr::mutate(goal = 'CP') %>%
     dplyr::select(goal, dimension, region_id = rgn_id, score)
 
-  write.table(scores_CP, "clipboard", sep="\t", row.names=F)
+#  write.table(scores_CP, "clipboard", sep="\t", row.names=F)
 
   # return scores
   return(scores_CP)
@@ -1147,7 +1147,7 @@ HAB <- function(layers) {
 
   ##Status
   status_hab <- scores_hab %>%
-    filter(year ==scenario_years) %>%
+    filter(year ==scen_year) %>%
     mutate(dimension = 'status',
            score     = round(status, 4)) %>%
     mutate(goal = 'HAB')%>%
