@@ -1,4 +1,4 @@
-"goal","element","element_name","cw_conquimica","cw_conpatogenos","cw_connutrientesmar","cw_conbasura","cw_conindustrial","sp_invasoras","des_habitat_marino","des_habitat_costero","traf_maritimo","den_cencultivo","turismo_cost","pes_ilegal","inst_artesdepesca","cc_anomaliast","cc_sataragonita","cc_cotaind","pres_n_proyexplora","pres_n_opa","pres_n_ocomunitarias","pres_n_fipa","pres_n_explora","pres_s_muniverde","pres_lim_playas","pres_in_municipales","pres_scam","pres_com_ccee","pres_com_prd","pres_con_eerr","pres_est_rrrdd"
+"goal","element","element_name","cw_conquimica","cw_conpatogenos","cw_connutrientesmar","cw_conbasura","cw_conindustrial","sp_invasoras","des_habitat_marino","des_habitat_costero","traf_maritimo","den_cencultivo","turismo_cost","pes_ilegal","inst_artesdepesca","cc_anomaliast","cc_sataragonita","cc_cotaind","pres_n_explora","pres_n_opa","pres_n_ocomunitarias","pres_n_fipa","pres_n_proyexplora","pres_s_muniverde","pres_lim_playas","pres_in_municipales","pres_scam","pres_com_ccee","pres_com_prd","pres_con_eerr","pres_est_rrdd"
 "AO",,,2,1,1,,3,1,2,1,1,2,,3,2,1,1,,1,2,1,2,1,,,1,2,,1,,2
 "CP","Macrocystis",,1,,2,1,3,,1,,,1,,3,2,1,1,,,2,1,2,1,,,,1,,,,
 "CP","Marismas y humedales",,2,,2,1,3,,,3,,,1,,,2,,3,,,2,,1,,,2,2,,,,2
@@ -28,9 +28,9 @@
 "NP","Algas",,1,,1,1,3,,1,2,,1,,2,2,2,1,1,,1,1,2,2,1,1,,1,,1,,1
 "TR",,,1,2,1,3,3,,,3,1,1,2,,,1,,1,1,,1,,1,1,1,2,2,1,2,1,2
 "SPP",,,2,1,2,2,3,1,1,3,2,1,2,1,1,1,1,1,2,,1,,2,2,2,1,1,,1,1,1
-"HAB","Algas",,2,,1,2,3,1,1,,1,1,,3,2,1,1,1,1,2,1,2,1,1,,,1,,,,1
+"HAB","Macrocystis",,2,,1,2,3,1,1,,1,1,,3,2,1,1,1,1,2,1,2,1,1,,,1,,,,1
 "HAB","Bentonico",,2,,2,1,3,1,2,1,1,2,1,3,2,2,2,1,1,2,1,2,2,1,,,1,,,,1
-"HAB","Pastos",,2,,1,1,3,,2,,1,1,,,,2,2,1,1,,1,,2,1,,,1,,,,1
-"HAB","Marismas y Humedales",,2,1,2,2,3,,,3,,,1,,,2,1,3,1,,2,,2,2,2,2,1,1,1,1,1
-"HAB","Playas y Dunas",,,,,2,2,,,3,,,2,,,,,3,1,1,1,,1,1,3,1,1,,,,1
-"HAB","Bosques y Matorrales",,1,,,1,1,,,3,,,1,,,,,3,1,,1,,1,1,2,1,1,2,2,2,1
+"HAB","Pastos marinos",,2,,1,1,3,,2,,1,1,,,,2,2,1,1,,1,,2,1,,,1,,,,1
+"HAB","Marismas y humedales",,2,1,2,2,3,,,3,,,1,,,2,1,3,1,,2,,2,2,2,2,1,1,1,1,1
+"HAB","Playas y dunas",,,,,2,2,,,3,,,2,,,,,3,1,1,1,,1,1,3,1,1,,,,1
+"HAB","Bosques y matorrales",,1,,,1,1,,,3,,,1,,,,,3,1,,1,,1,1,2,1,1,2,2,2,1
