@@ -31,7 +31,7 @@
 "ECO","le_unemployment","le_unemployment_chl2023.csv","percent","proporción","",,"","","rgn_id",,,"year","percent",,TRUE,2017,2021,3.16433718895058,12.4134336091085,FALSE,,,,103,FALSE
 "ECO","le_jobs_sector","le_jobs_sector_chl2023.csv","jobs","numero","",,"","","rgn_id",,"sector","year","jobs",,TRUE,2017,2021,0,38601,FALSE,,,,103,FALSE
 "ECO","le_wage_sector","le_wage_sector_chl2023.csv","wage_usd","USD","",,"","","rgn_id",,"sector","year","wage_usd",,TRUE,2017,2021,0,15281820147.352,FALSE,,,,103,FALSE
-"AO","ao_scores","ao_scores_chl2023.csv","status","estatus","",,"","","rgn_id",,,"year","status",,TRUE,2017,2021,0,0.825758563539397,TRUE,,,,103,FALSE
+"AO","ao_scores","ao_scores_chl2023.csv","status","estatus","",,"","","rgn_id",,,"year","status",,TRUE,2017,2021,0,83.16353998,FALSE,,,,103,FALSE
 "CP","cp_habitat_extent","cp_habitat_extent_chl2023.csv","area_km2","area","",,"","","rgn_id",,"habitat","year","area_km2",,TRUE,2017,2021,0,9355.96,FALSE,,,,103,FALSE
 "CP","cp_habitat_trend","cp_habitat_trend_chl2023.csv","trend","tendencia","",,"","","rgn_id",,"habitat",,"trend",,TRUE,,,-1,1,FALSE,,,,103,FALSE
 "CP","cp_habitat_health","cp_habitat_health_chl2023.csv","health","proporción","",,"","","rgn_id",,"habitat","year","health",,TRUE,2017,2021,0,100,FALSE,,,,103,FALSE
