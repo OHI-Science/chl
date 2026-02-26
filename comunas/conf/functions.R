@@ -287,7 +287,7 @@ FP <- function(layers, scores) {
     dplyr::select(region_id, goal, dimension, score) %>%
     data.frame()
 
-  scores<- rbind(scores, s)
+  #scores<- rbind(scores, s)
 
   # return all scores
   return(rbind(scores, s))
@@ -962,7 +962,7 @@ LE = function(scores, layers){
     dplyr::select(region_id, goal, dimension, score) %>%
     data.frame()
 
-  s<- rbind(scores, s)
+  #s<- rbind(scores, s)
 
 
 
