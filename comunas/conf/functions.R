@@ -1174,7 +1174,7 @@ CW <- function(layers) {
   #Agregar todos los datos
   trend_data<- rbind(quim, pat, bas) %>%
     dplyr::select(region_id = rgn_id, value = val_num) %>%
-    rbind(pres_data1)
+    rbind(trend_data1)
 
   d_trends <- trend_data %>%
     dplyr::mutate(trend = -1 * value)  %>%  # invert trends
