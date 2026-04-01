@@ -1,69 +1,88 @@
-
 library(readxl)
 library(dplyr)
-library(tidyr)
-library(reshape2)
 library(readr)
+library(sf)
 
-scen_year <- layers$data$scenario_year
+y<- 2024
 
-mar_sust <- SelectLayersData(layers, layers='mar_sustainability_scores') %>%
-  dplyr::select( rgn_id = "id_num",  species = "category", sust_coeff ="val_num")
+pol<- st_read("C:/R/OHI/datacenter2/rgn_12mn_1mn_merge.shp")
+pol <- st_make_valid(pol)
 
+c1<- st_read("C:/R/OHI/datacenter/polygon.shp") %>%
+  dplyr::select(REP_SUBPES.10 ,Centro = REP_SUBPES.2)
+c1 <- st_transform(c1, st_crs(pol))
+c1<- st_centroid(c1)
 
-mar_harvest <- SelectLayersData(layers, layers='mar_harvest_tonnes') %>%
-  dplyr::select(rgn_id = "id_num",species = "category", year, tonnes = "val_num")
+sf_in <- st_intersection(c1, pol)
 
+sf<- sf_in %>%
+  as.data.frame() %>%
+  select(Centro, rgn_id)
 
-c1<- merge(mar_harvest, mar_sust)
+sf$Centro<- as.numeric(sf$Centro)
 
-# 4-year rolling mean of data
-c2 <- c1 %>%
-  dplyr::group_by(rgn_id, species) %>%
-  dplyr::arrange(rgn_id, species, year) %>%
-  dplyr::mutate(sm_tonnes = zoo::rollapply(tonnes, 4, mean, na.rm = TRUE, partial =
-                                             TRUE, align = "right")) %>%
-  dplyr::ungroup()
-
-##Punto de referencia
-pto_ref<- c2 %>% group_by(rgn_id, species) %>%
-  dplyr::summarise(pto_max = max(sm_tonnes))%>%
-  dplyr::group_by(rgn_id) %>%
-  dplyr::summarise(pto_ref = sum(pto_max)) %>%
-  dplyr::mutate(Punto_ref = pto_ref*0.01) %>%
-  dplyr::select(rgn_id, Punto_ref)
-
-##Para calcular el estado
-c3<- c2 %>%
-  dplyr::filter(year %in% c(2017:2021)) %>%
-  dplyr::mutate(mult = sm_tonnes* sust_coeff) %>%
-  dplyr::group_by(rgn_id, year) %>%
-  dplyr::mutate(YC = sum(mult)) %>%
-  dplyr::select(rgn_id, year, YC)
-
-c3<-c3[!duplicated(c3), ]
+df <- read_csv("C:/github/chl2/prep/MAR/Produccion_centros_cultivo_2020_2024.csv")
 
 
-c4<- merge(c3, pto_ref)
 
-status<-c4 %>%
-  dplyr::mutate(status = YC/Punto_ref) %>%
-  dplyr::select(rgn_id, year, status)
+df["Especie"][df["Especie"] == "SALMON PLATEADO O COHO"] <- "Salmones"
+df["Especie"][df["Especie"] == "SALMON DEL ATLANTICO"] <- "Salmones"
 
-# status
-status_a <- status %>%
-  dplyr::filter(year == scen_year) %>%
-  dplyr::mutate(dimension = "status") %>%
-  dplyr::select(region_id = rgn_id, score = status, dimension)
+df["Especie"][df["Especie"] == "OSTION DEL NORTE"] <- "Ostion del Norte"
+
+df["Especie"][df["Especie"] == "ABALON JAPONES"] <- "Abalon"
+df["Especie"][df["Especie"] == "ABALON ROJO"] <- "Abalon"
 
 
-trend_years <- (scen_year - 4):(scen_year)
+df["Especie"][df["Especie"] == "CHORO"] <- "Mitilidos"
+df["Especie"][df["Especie"] == "CHORITO"] <- "Mitilidos"
+df["Especie"][df["Especie"] == "CHOLGA"] <- "Mitilidos"
 
-trend <- CalculateTrend(status_data = status, trend_years = trend_years)
+
+df["Especie"][df["Especie"] == "OSTRA DEL PACIFICO"] <- "Ostras"
+df["Especie"][df["Especie"] == "OSTRA CHILENA"] <- "Ostras"
+
+sp<- data.frame(table(df$Especie))
+
+df<- df %>%
+  select("Centro",  "Comuna", "Año", "Especie", "Etapa", "Mes", "EGRESOS K", "Tipo de Cultivo", "Sector", "Cuerpo de Agua") %>%
+  filter(Año %in% c(2020:2024),
+         Especie %in% c("Salmones", "Ostion del Norte", "Abalon", "Mitilidos", "Ostras"))
+
+df1<- df %>%
+  filter(`Cuerpo de Agua` == "Mar" |
+           Centro %in% unique(sf_in$Centro))
+
+df1<- df1%>%
+  group_by(Comuna, Año, Especie) %>%
+  dplyr::summarise(Catch = sum(`EGRESOS K`, na.rm = T)) %>%
+  as.data.frame() %>%
+  mutate(
+    Comuna = paste0(
+      toupper(substr(tolower(Comuna), 1, 1)),  # primera letra en mayúscula
+      substr(tolower(Comuna), 2, nchar(Comuna))))
+df1$Comuna <- iconv(df1$Comuna, from = "UTF-8", to = "ASCII//TRANSLIT")
+
+df1$Comuna[which(df1$Comuna == "Cabo de hornos(navarino)")] <- "Cabo de hornos"
+df1$Comuna[which(df1$Comuna == "Savedra")] <- "Saavedra"
 
 
-# return scores
-scores = rbind(status_a, trend) %>%
-  dplyr::mutate(goal = 'MAR')
+library(readr)
+rgn <- read_csv("C:/github/chl2/comunas/spatial/regions_list.csv") %>%
+  select(Comuna = "rgn_name", rgn_id)
 
+df1<- merge(df1, rgn, all = T) %>%
+  select(rgn_id, year = Año, especie = Especie, tonnes = Catch) %>%
+  filter(year %in% c((y-4):y))
+
+write.csv(df1, "comunas/layers/mar_harvest_tonnes_chl2024.csv", row.names = F)
+
+###
+library(readr)
+sus <- read_excel("C:/github/chl2/prep/MAR/mar_sustainability.xlsx", sheet = 2) %>%
+  dplyr::select(especie, coeff)
+
+
+
+write.csv(sus, "comunas/layers/mar_sustainability_chl2024.csv", row.names = F)
 
