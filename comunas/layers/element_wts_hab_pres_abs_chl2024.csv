@@ -1,0 +1,515 @@
+"","rgn_id","habitat","boolean"
+"1","08206","Macrocystis",1
+"2","08108","Macrocystis",1
+"3","05603","Macrocystis",1
+"4","05604","Macrocystis",1
+"5","05601","Macrocystis",1
+"6","07303","Macrocystis",1
+"7","15102","Macrocystis",1
+"8","08203","Macrocystis",1
+"9","05603","Marismas y humedales",1
+"10","16203","Macrocystis",1
+"11","06203","Macrocystis",1
+"12","05403","Macrocystis",1
+"13","07103","Macrocystis",1
+"14","05405","Macrocystis",1
+"15","05102","Macrocystis",1
+"16","05109","Macrocystis",1
+"17","10204","Playas y dunas",1
+"18","06205","Macrocystis",1
+"19","07309","Marismas y humedales",1
+"20","08207","Macrocystis",1
+"21","04104","Marismas y humedales",1
+"22","01404","Marismas y humedales",1
+"23","06206","Macrocystis",1
+"24","04101","Macrocystis",1
+"25","10204","Marismas y humedales",1
+"26","05107","Macrocystis",1
+"27","07309","Macrocystis",1
+"28","07203","Macrocystis",1
+"29","03201","Bosques y matorrales",1
+"30","01101","Bosques y matorrales",1
+"31","01101","Marismas y humedales",1
+"32","15101","Macrocystis",1
+"33","10104","Macrocystis",1
+"34","16207","Macrocystis",1
+"35","08106","Macrocystis",1
+"36","07202","Macrocystis",1
+"37","03101","Macrocystis",1
+"38","02101","Macrocystis",1
+"39","05405","Marismas y humedales",1
+"40","08102","Macrocystis",1
+"41","05101","Macrocystis",1
+"42","02301","Marismas y humedales",1
+"43","05604","Marismas y humedales",1
+"44","08110","Macrocystis",1
+"45","05606","Macrocystis",1
+"46","03304","Macrocystis",1
+"47","08112","Macrocystis",1
+"48","05102","Marismas y humedales",1
+"49","10205","Marismas y humedales",1
+"50","03201","Macrocystis",1
+"51","11203","Marismas y humedales",1
+"52","04104","Macrocystis",1
+"53","08206","Marismas y humedales",1
+"54","05605","Macrocystis",1
+"55","05101","Marismas y humedales",1
+"56","03303","Macrocystis",1
+"57","08102","Marismas y humedales",1
+"58","05105","Macrocystis",1
+"59","08202","Macrocystis",1
+"60","05104","Marismas y humedales",1
+"61","05401","Macrocystis",1
+"62","02102","Macrocystis",1
+"63","05201","Macrocystis",1
+"64","03303","Marismas y humedales",1
+"65","08201","Macrocystis",1
+"66","01404","Macrocystis",1
+"67","10303","Macrocystis",1
+"68","05103","Marismas y humedales",1
+"69","12102","Marismas y humedales",1
+"70","05602","Macrocystis",1
+"71","05105","Marismas y humedales",1
+"72","08111","Marismas y humedales",1
+"73","06206","Marismas y humedales",1
+"74","06201","Macrocystis",1
+"75","15102","Marismas y humedales",1
+"76","02301","Macrocystis",1
+"77","01101","Macrocystis",1
+"78","10106","Macrocystis",1
+"79","06203","Marismas y humedales",1
+"80","05601","Marismas y humedales",1
+"81","03102","Macrocystis",1
+"82","04102","Macrocystis",1
+"83","03303","Bosques y matorrales",1
+"84","10103","Marismas y humedales",1
+"85","05605","Marismas y humedales",1
+"86","08107","Playas y dunas",1
+"87","09117","Macrocystis",1
+"88","08111","Macrocystis",1
+"89","10109","Marismas y humedales",1
+"90","09118","Macrocystis",1
+"91","06205","Marismas y humedales",1
+"92","07303","Marismas y humedales",1
+"93","08112","Playas y dunas",1
+"94","05403","Marismas y humedales",1
+"95","14106","Macrocystis",1
+"96","09118","Marismas y humedales",1
+"97","09102","Macrocystis",1
+"98","02101","Bosques y matorrales",1
+"99","16203","Bentonico",1
+"100","10204","Macrocystis",1
+"101","05401","Marismas y humedales",1
+"102","10103","Playas y dunas",1
+"103","05602","Marismas y humedales",1
+"104","10209","Macrocystis",1
+"105","16207","Marismas y humedales",1
+"106","07103","Marismas y humedales",1
+"107","07102","Pastos marinos",1
+"108","10109","Macrocystis",1
+"109","09116","Macrocystis",1
+"110","16202","Macrocystis",1
+"111","07102","Macrocystis",1
+"112","14101","Marismas y humedales",1
+"113","14102","Marismas y humedales",1
+"114","03101","Marismas y humedales",1
+"115","10203","Marismas y humedales",1
+"116","10305","Macrocystis",1
+"117","02301","Bosques y matorrales",1
+"118","10102","Macrocystis",1
+"119","05201","Marismas y humedales",1
+"120","06201","Marismas y humedales",1
+"121","09117","Pastos marinos",1
+"122","15101","Bosques y matorrales",1
+"123","04101","Marismas y humedales",1
+"124","12402","Marismas y humedales",1
+"125","10201","Marismas y humedales",1
+"126","10303","Marismas y humedales",1
+"127","08107","Macrocystis",1
+"128","07202","Marismas y humedales",1
+"129","16203","Marismas y humedales",1
+"130","05601","Bosques y matorrales",1
+"131","15102","Bosques y matorrales",1
+"132","04102","Bosques y matorrales",1
+"133","05107","Marismas y humedales",1
+"134","04101","Bosques y matorrales",1
+"135","15101","Pastos marinos",1
+"136","14101","Macrocystis",1
+"137","02101","Marismas y humedales",1
+"138","10206","Marismas y humedales",1
+"139","08111","Playas y dunas",1
+"140","02104","Marismas y humedales",1
+"141","14201","Macrocystis",1
+"142","05103","Playas y dunas",1
+"143","05603","Bosques y matorrales",1
+"144","03101","Bosques y matorrales",1
+"145","10206","Macrocystis",1
+"146","04301","Marismas y humedales",1
+"147","16207","Playas y dunas",1
+"148","10109","Playas y dunas",1
+"149","16202","Marismas y humedales",1
+"150","05104","Macrocystis",1
+"151","14201","Marismas y humedales",1
+"152","04202","Macrocystis",1
+"153","10205","Macrocystis",1
+"154","10209","Playas y dunas",1
+"155","09116","Marismas y humedales",1
+"156","04203","Marismas y humedales",1
+"157","04203","Macrocystis",1
+"158","16203","Playas y dunas",1
+"159","10305","Marismas y humedales",1
+"160","10201","Macrocystis",1
+"161","10101","Macrocystis",1
+"162","10104","Playas y dunas",1
+"163","03304","Bosques y matorrales",1
+"164","10210","Marismas y humedales",1
+"165","03304","Marismas y humedales",1
+"166","02104","Macrocystis",1
+"167","02104","Bosques y matorrales",1
+"168","05103","Bosques y matorrales",1
+"169","07203","Marismas y humedales",1
+"170","08106","Marismas y humedales",1
+"171","05602","Pastos marinos",1
+"172","08107","Marismas y humedales",1
+"173","08108","Marismas y humedales",1
+"174","10203","Macrocystis",1
+"175","03102","Marismas y humedales",1
+"176","10202","Marismas y humedales",1
+"177","03201","Marismas y humedales",1
+"178","05109","Playas y dunas",1
+"179","04102","Marismas y humedales",1
+"180","03102","Bosques y matorrales",1
+"181","10210","Macrocystis",1
+"182","08207","Marismas y humedales",1
+"183","08201","Marismas y humedales",1
+"184","10108","Macrocystis",1
+"185","12402","Playas y dunas",1
+"186","08203","Marismas y humedales",1
+"187","10106","Marismas y humedales",1
+"188","08112","Marismas y humedales",1
+"189","02102","Marismas y humedales",1
+"190","14106","Marismas y humedales",1
+"191","10104","Marismas y humedales",1
+"192","04202","Marismas y humedales",1
+"193","10201","Playas y dunas",1
+"194","10306","Macrocystis",1
+"195","12301","Marismas y humedales",1
+"196","10209","Marismas y humedales",1
+"197","04301","Bosques y matorrales",1
+"198","05606","Marismas y humedales",1
+"199","09102","Marismas y humedales",1
+"200","07309","Playas y dunas",1
+"201","09117","Marismas y humedales",1
+"202","05101","Playas y dunas",1
+"203","10205","Playas y dunas",1
+"204","08108","Playas y dunas",1
+"205","04301","Macrocystis",1
+"206","12104","Marismas y humedales",1
+"207","10306","Marismas y humedales",1
+"208","05105","Playas y dunas",1
+"209","02301","Pastos marinos",1
+"210","08108","Bosques y matorrales",1
+"211","12302","Marismas y humedales",1
+"212","10106","Playas y dunas",1
+"213","14102","Macrocystis",1
+"214","05603","Playas y dunas",1
+"215","05102","Playas y dunas",1
+"216","12302","Macrocystis",1
+"217","15102","Pastos marinos",1
+"218","06203","Playas y dunas",1
+"219","04202","Bosques y matorrales",1
+"220","10208","Playas y dunas",1
+"221","12102","Macrocystis",1
+"222","10207","Marismas y humedales",1
+"223","06205","Playas y dunas",1
+"224","05201","Playas y dunas",1
+"225","12102","Playas y dunas",1
+"226","06206","Playas y dunas",1
+"227","10208","Marismas y humedales",1
+"228","15101","Marismas y humedales",1
+"229","11203","Playas y dunas",1
+"230","10103","Macrocystis",1
+"231","10102","Marismas y humedales",1
+"232","10202","Macrocystis",1
+"233","08202","Marismas y humedales",1
+"234","05604","Bosques y matorrales",1
+"235","10210","Playas y dunas",1
+"236","05109","Marismas y humedales",1
+"237","05109","Bosques y matorrales",1
+"238","07303","Playas y dunas",1
+"239","10108","Playas y dunas",1
+"240","08110","Playas y dunas",1
+"241","05601","Playas y dunas",1
+"242","07102","Marismas y humedales",1
+"243","08206","Playas y dunas",1
+"244","08110","Marismas y humedales",1
+"245","03304","Pastos marinos",1
+"246","12104","Macrocystis",1
+"247","11202","Marismas y humedales",1
+"248","03303","Pastos marinos",1
+"249","07202","Bosques y matorrales",1
+"250","16207","Bentonico",1
+"251","09102","Playas y dunas",1
+"252","10202","Playas y dunas",1
+"253","10403","Marismas y humedales",1
+"254","05605","Bosques y matorrales",1
+"255","16207","Bosques y matorrales",1
+"256","14106","Bentonico",1
+"257","05107","Bosques y matorrales",1
+"258","10108","Marismas y humedales",1
+"259","05605","Playas y dunas",1
+"260","09116","Pastos marinos",1
+"261","10207","Macrocystis",1
+"262","05604","Playas y dunas",1
+"263","07203","Bosques y matorrales",1
+"264","10101","Marismas y humedales",1
+"265","07103","Bosques y matorrales",1
+"266","05602","Bosques y matorrales",1
+"267","05109","Bentonico",1
+"268","09116","Bosques y matorrales",1
+"269","08206","Bosques y matorrales",1
+"270","05105","Bosques y matorrales",1
+"271","05401","Playas y dunas",1
+"272","07202","Bentonico",1
+"273","08207","Playas y dunas",1
+"274","04104","Bosques y matorrales",1
+"275","12102","Bosques y matorrales",1
+"276","06201","Playas y dunas",1
+"277","10206","Playas y dunas",1
+"278","05101","Bentonico",1
+"279","01404","Bosques y matorrales",1
+"280","16202","Playas y dunas",1
+"281","05606","Playas y dunas",1
+"282","16203","Bosques y matorrales",1
+"283","10303","Playas y dunas",1
+"284","14102","Playas y dunas",1
+"285","05403","Bosques y matorrales",1
+"286","09116","Playas y dunas",1
+"287","05107","Playas y dunas",1
+"288","10106","Bentonico",1
+"289","08107","Bosques y matorrales",1
+"290","05405","Playas y dunas",1
+"291","12303","Marismas y humedales",1
+"292","05405","Bosques y matorrales",1
+"293","10101","Playas y dunas",1
+"294","07103","Playas y dunas",1
+"295","08106","Bosques y matorrales",1
+"296","14201","Playas y dunas",1
+"297","10403","Macrocystis",1
+"298","05103","Bentonico",1
+"299","10401","Marismas y humedales",1
+"300","08102","Bosques y matorrales",1
+"301","12103","Marismas y humedales",1
+"302","08206","Bentonico",1
+"303","09117","Bosques y matorrales",1
+"304","05403","Playas y dunas",1
+"305","05104","Playas y dunas",1
+"306","07303","Bosques y matorrales",1
+"307","08106","Pastos marinos",1
+"308","07102","Bosques y matorrales",1
+"309","09117","Playas y dunas",1
+"310","10401","Macrocystis",1
+"311","05602","Playas y dunas",1
+"312","10208","Macrocystis",1
+"313","10203","Playas y dunas",1
+"314","06206","Bosques y matorrales",1
+"315","05401","Bosques y matorrales",1
+"316","11203","Macrocystis",1
+"317","05103","Pastos marinos",1
+"318","09102","Bentonico",1
+"319","05603","Bentonico",1
+"320","12301","Macrocystis",1
+"321","09118","Playas y dunas",1
+"322","08112","Bosques y matorrales",1
+"323","06203","Bosques y matorrales",1
+"324","04203","Bosques y matorrales",1
+"325","05102","Bosques y matorrales",1
+"326","06205","Bosques y matorrales",1
+"327","12101","Bentonico",1
+"328","05601","Bentonico",1
+"329","09102","Pastos marinos",1
+"330","12402","Macrocystis",1
+"331","08201","Playas y dunas",1
+"332","08107","Bentonico",1
+"333","05606","Bosques y matorrales",1
+"334","04202","Playas y dunas",1
+"335","04203","Pastos marinos",1
+"336","05101","Bosques y matorrales",1
+"337","09118","Bosques y matorrales",1
+"338","10109","Bosques y matorrales",1
+"339","10305","Playas y dunas",1
+"340","08203","Bosques y matorrales",1
+"341","08112","Bentonico",1
+"342","12201","Marismas y humedales",1
+"343","08203","Playas y dunas",1
+"344","10102","Playas y dunas",1
+"345","12302","Bosques y matorrales",1
+"346","05201","Bosques y matorrales",1
+"347","04203","Playas y dunas",1
+"348","04101","Playas y dunas",1
+"349","07309","Bosques y matorrales",1
+"350","05604","Bentonico",1
+"351","05403","Pastos marinos",1
+"352","11201","Marismas y humedales",1
+"353","07303","Bentonico",1
+"354","09102","Bosques y matorrales",1
+"355","05606","Bentonico",1
+"356","02102","Bosques y matorrales",1
+"357","05602","Bentonico",1
+"358","10207","Playas y dunas",1
+"359","10104","Bentonico",1
+"360","10104","Bosques y matorrales",1
+"361","08110","Bosques y matorrales",1
+"362","14101","Playas y dunas",1
+"363","05605","Bentonico",1
+"364","14106","Bosques y matorrales",1
+"365","11201","Bentonico",1
+"366","11202","Macrocystis",1
+"367","08102","Playas y dunas",1
+"368","11303","Marismas y humedales",1
+"369","05104","Bosques y matorrales",1
+"370","10305","Bosques y matorrales",1
+"371","05403","Bentonico",1
+"372","06203","Bentonico",1
+"373","06206","Bentonico",1
+"374","07102","Bentonico",1
+"375","11201","Playas y dunas",1
+"376","06201","Bosques y matorrales",1
+"377","12301","Bosques y matorrales",1
+"378","14106","Playas y dunas",1
+"379","07103","Bentonico",1
+"380","10204","Bosques y matorrales",1
+"381","11202","Playas y dunas",1
+"382","08207","Bosques y matorrales",1
+"383","06205","Bentonico",1
+"384","16202","Bosques y matorrales",1
+"385","04102","Pastos marinos",1
+"386","05107","Bentonico",1
+"387","12402","Bosques y matorrales",1
+"388","10305","Bentonico",1
+"389","05102","Pastos marinos",1
+"390","14101","Bentonico",1
+"391","04202","Pastos marinos",1
+"392","14201","Bosques y matorrales",1
+"393","14101","Bosques y matorrales",1
+"394","10306","Playas y dunas",1
+"395","05102","Bentonico",1
+"396","08111","Bosques y matorrales",1
+"397","10303","Bentonico",1
+"398","05405","Bentonico",1
+"399","05101","Pastos marinos",1
+"400","08111","Bentonico",1
+"401","08110","Bentonico",1
+"402","05405","Pastos marinos",1
+"403","05107","Pastos marinos",1
+"404","12104","Bosques y matorrales",1
+"405","12101","Marismas y humedales",1
+"406","10206","Bosques y matorrales",1
+"407","08207","Bentonico",1
+"408","04102","Playas y dunas",1
+"409","10303","Bosques y matorrales",1
+"410","05105","Bentonico",1
+"411","14201","Bentonico",1
+"412","08202","Bentonico",1
+"413","05109","Pastos marinos",1
+"414","15102","Playas y dunas",1
+"415","08202","Bosques y matorrales",1
+"416","11201","Macrocystis",1
+"417","08203","Bentonico",1
+"418","04301","Playas y dunas",1
+"419","12401","Marismas y humedales",1
+"420","07309","Bentonico",1
+"421","10106","Bosques y matorrales",1
+"422","07203","Bentonico",1
+"423","15101","Playas y dunas",1
+"424","05105","Pastos marinos",1
+"425","08201","Bosques y matorrales",1
+"426","14102","Bentonico",1
+"427","03101","Playas y dunas",1
+"428","12302","Playas y dunas",1
+"429","08106","Playas y dunas",1
+"430","10306","Bosques y matorrales",1
+"431","05401","Bentonico",1
+"432","14102","Bosques y matorrales",1
+"433","10403","Playas y dunas",1
+"434","10210","Bosques y matorrales",1
+"435","10201","Bosques y matorrales",1
+"436","08202","Playas y dunas",1
+"437","10101","Bosques y matorrales",1
+"438","10203","Bosques y matorrales",1
+"439","10205","Bosques y matorrales",1
+"440","04104","Playas y dunas",1
+"441","16202","Bentonico",1
+"442","07202","Playas y dunas",1
+"443","08202","Pastos marinos",1
+"444","04101","Bentonico",1
+"445","12103","Playas y dunas",1
+"446","03304","Playas y dunas",1
+"447","10401","Playas y dunas",1
+"448","15101","Bentonico",1
+"449","03201","Playas y dunas",1
+"450","02104","Pastos marinos",1
+"451","12301","Playas y dunas",1
+"452","10306","Bentonico",1
+"453","03101","Bentonico",1
+"454","06201","Bentonico",1
+"455","12303","Playas y dunas",1
+"456","03303","Playas y dunas",1
+"457","15102","Bentonico",1
+"458","10108","Bosques y matorrales",1
+"459","07203","Playas y dunas",1
+"460","01404","Playas y dunas",1
+"461","02102","Pastos marinos",1
+"462","04102","Bentonico",1
+"463","12303","Macrocystis",1
+"464","10209","Bosques y matorrales",1
+"465","02102","Playas y dunas",1
+"466","04202","Bentonico",1
+"467","04203","Bentonico",1
+"468","10207","Bosques y matorrales",1
+"469","10103","Bosques y matorrales",1
+"470","10102","Bosques y matorrales",1
+"471","03201","Bentonico",1
+"472","01101","Pastos marinos",1
+"473","02301","Playas y dunas",1
+"474","04104","Bentonico",1
+"475","03102","Pastos marinos",1
+"476","02102","Bentonico",1
+"477","07102","Playas y dunas",1
+"478","11303","Playas y dunas",1
+"479","12103","Macrocystis",1
+"480","03304","Bentonico",1
+"481","01101","Playas y dunas",1
+"482","10202","Bosques y matorrales",1
+"483","12104","Playas y dunas",1
+"484","03303","Bentonico",1
+"485","02101","Playas y dunas",1
+"486","08201","Bentonico",1
+"487","12201","Playas y dunas",1
+"488","03102","Playas y dunas",1
+"489","01404","Bentonico",1
+"490","04301","Bentonico",1
+"491","12303","Bosques y matorrales",1
+"492","02104","Playas y dunas",1
+"493","10403","Bosques y matorrales",1
+"494","11303","Macrocystis",1
+"495","03102","Bentonico",1
+"496","12101","Playas y dunas",1
+"497","02301","Bentonico",1
+"498","11203","Bosques y matorrales",1
+"499","01101","Bentonico",1
+"500","02101","Bentonico",1
+"501","12201","Macrocystis",1
+"502","02104","Bentonico",1
+"503","10401","Bosques y matorrales",1
+"504","10208","Bosques y matorrales",1
+"505","12401","Playas y dunas",1
+"506","12101","Macrocystis",1
+"507","11303","Bosques y matorrales",1
+"508","12103","Bosques y matorrales",1
+"509","12201","Bosques y matorrales",1
+"510","12401","Macrocystis",1
+"511","11202","Bosques y matorrales",1
+"512","12101","Bosques y matorrales",1
+"513","11201","Bosques y matorrales",1
+"514","12401","Bosques y matorrales",1
