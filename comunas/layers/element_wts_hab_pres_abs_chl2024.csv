@@ -105,7 +105,6 @@
 10209,"Macrocystis",1
 16207,"Marismas y humedales",1
 7103,"Marismas y humedales",1
-7102,"Pastos marinos",1
 10109,"Macrocystis",1
 9116,"Macrocystis",1
 16202,"Macrocystis",1
@@ -119,7 +118,6 @@
 10102,"Macrocystis",1
 5201,"Marismas y humedales",1
 6201,"Marismas y humedales",1
-9117,"Pastos marinos",1
 15101,"Bosques y matorrales",1
 4101,"Marismas y humedales",1
 12402,"Marismas y humedales",1
@@ -133,7 +131,6 @@
 4102,"Bosques y matorrales",1
 5107,"Marismas y humedales",1
 4101,"Bosques y matorrales",1
-15101,"Pastos marinos",1
 14101,"Macrocystis",1
 2101,"Marismas y humedales",1
 10206,"Marismas y humedales",1
@@ -169,7 +166,6 @@
 5103,"Bosques y matorrales",1
 7203,"Marismas y humedales",1
 8106,"Marismas y humedales",1
-5602,"Pastos marinos",1
 8107,"Marismas y humedales",1
 8108,"Marismas y humedales",1
 10203,"Macrocystis",1
@@ -207,7 +203,6 @@
 12104,"Marismas y humedales",1
 10306,"Marismas y humedales",1
 5105,"Playas y dunas",1
-2301,"Pastos marinos",1
 8108,"Bosques y matorrales",1
 12302,"Marismas y humedales",1
 10106,"Playas y dunas",1
@@ -215,7 +210,6 @@
 5603,"Playas y dunas",1
 5102,"Playas y dunas",1
 12302,"Macrocystis",1
-15102,"Pastos marinos",1
 6203,"Playas y dunas",1
 4202,"Bosques y matorrales",1
 10208,"Playas y dunas",1
@@ -243,10 +237,8 @@
 7102,"Marismas y humedales",1
 8206,"Playas y dunas",1
 8110,"Marismas y humedales",1
-3304,"Pastos marinos",1
 12104,"Macrocystis",1
 11202,"Marismas y humedales",1
-3303,"Pastos marinos",1
 7202,"Bosques y matorrales",1
 16207,"Bentonico",1
 9102,"Playas y dunas",1
@@ -258,7 +250,6 @@
 5107,"Bosques y matorrales",1
 10108,"Marismas y humedales",1
 5605,"Playas y dunas",1
-9116,"Pastos marinos",1
 10207,"Macrocystis",1
 5604,"Playas y dunas",1
 7203,"Bosques y matorrales",1
@@ -305,7 +296,6 @@
 5403,"Playas y dunas",1
 5104,"Playas y dunas",1
 7303,"Bosques y matorrales",1
-8106,"Pastos marinos",1
 7102,"Bosques y matorrales",1
 9117,"Playas y dunas",1
 10401,"Macrocystis",1
@@ -315,7 +305,6 @@
 6206,"Bosques y matorrales",1
 5401,"Bosques y matorrales",1
 11203,"Macrocystis",1
-5103,"Pastos marinos",1
 9102,"Bentonico",1
 5603,"Bentonico",1
 12301,"Macrocystis",1
@@ -327,13 +316,11 @@
 6205,"Bosques y matorrales",1
 12101,"Bentonico",1
 5601,"Bentonico",1
-9102,"Pastos marinos",1
 12402,"Macrocystis",1
 8201,"Playas y dunas",1
 8107,"Bentonico",1
 5606,"Bosques y matorrales",1
 4202,"Playas y dunas",1
-4203,"Pastos marinos",1
 5101,"Bosques y matorrales",1
 9118,"Bosques y matorrales",1
 10109,"Bosques y matorrales",1
@@ -349,7 +336,6 @@
 4101,"Playas y dunas",1
 7309,"Bosques y matorrales",1
 5604,"Bentonico",1
-5403,"Pastos marinos",1
 11201,"Marismas y humedales",1
 7303,"Bentonico",1
 9102,"Bosques y matorrales",1
@@ -383,13 +369,10 @@
 8207,"Bosques y matorrales",1
 6205,"Bentonico",1
 16202,"Bosques y matorrales",1
-4102,"Pastos marinos",1
 5107,"Bentonico",1
 12402,"Bosques y matorrales",1
 10305,"Bentonico",1
-5102,"Pastos marinos",1
 14101,"Bentonico",1
-4202,"Pastos marinos",1
 14201,"Bosques y matorrales",1
 14101,"Bosques y matorrales",1
 10306,"Playas y dunas",1
@@ -397,11 +380,8 @@
 8111,"Bosques y matorrales",1
 10303,"Bentonico",1
 5405,"Bentonico",1
-5101,"Pastos marinos",1
 8111,"Bentonico",1
 8110,"Bentonico",1
-5405,"Pastos marinos",1
-5107,"Pastos marinos",1
 12104,"Bosques y matorrales",1
 12101,"Marismas y humedales",1
 10206,"Bosques y matorrales",1
@@ -411,7 +391,6 @@
 5105,"Bentonico",1
 14201,"Bentonico",1
 8202,"Bentonico",1
-5109,"Pastos marinos",1
 15102,"Playas y dunas",1
 8202,"Bosques y matorrales",1
 11201,"Macrocystis",1
@@ -422,7 +401,6 @@
 10106,"Bosques y matorrales",1
 7203,"Bentonico",1
 15101,"Playas y dunas",1
-5105,"Pastos marinos",1
 8201,"Bosques y matorrales",1
 14102,"Bentonico",1
 3101,"Playas y dunas",1
@@ -441,14 +419,12 @@
 4104,"Playas y dunas",1
 16202,"Bentonico",1
 7202,"Playas y dunas",1
-8202,"Pastos marinos",1
 4101,"Bentonico",1
 12103,"Playas y dunas",1
 3304,"Playas y dunas",1
 10401,"Playas y dunas",1
 15101,"Bentonico",1
 3201,"Playas y dunas",1
-2104,"Pastos marinos",1
 12301,"Playas y dunas",1
 10306,"Bentonico",1
 3101,"Bentonico",1
@@ -459,7 +435,6 @@
 10108,"Bosques y matorrales",1
 7203,"Playas y dunas",1
 1404,"Playas y dunas",1
-2102,"Pastos marinos",1
 4102,"Bentonico",1
 12303,"Macrocystis",1
 10209,"Bosques y matorrales",1
@@ -470,10 +445,8 @@
 10103,"Bosques y matorrales",1
 10102,"Bosques y matorrales",1
 3201,"Bentonico",1
-1101,"Pastos marinos",1
 2301,"Playas y dunas",1
 4104,"Bentonico",1
-3102,"Pastos marinos",1
 2102,"Bentonico",1
 7102,"Playas y dunas",1
 11303,"Playas y dunas",1
