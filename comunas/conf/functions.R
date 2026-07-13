@@ -1220,7 +1220,7 @@ HAB <- function(layers) {
   ## Numero de habitats
   com_hab <- hab %>%
     group_by(rgn_id, area_km2, habitat) %>%
-    filter(!(all(value == 0 & year %in% 2018:2022))) %>%
+    filter(!(all(value == 0 & year %in% (scen_year - 4):(scen_year)))) %>%
     ungroup()
 
   com_h1<- data.frame()
